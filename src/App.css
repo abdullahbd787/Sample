@@ -1,0 +1,13 @@
+.App .top{
+   position: fixed;
+   top: 0;
+   z-index: 10 ;
+}
+.App .side{
+  position: fixed;
+  padding-top: 56px;
+}
+.App .hero{
+   margin-left: 250px;
+   padding-top: 56px;
+}
